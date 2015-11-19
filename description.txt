@@ -1,0 +1,5 @@
+Fishing game.<br>
+Z to cast, X to reel.<br>
+Arrow key <- to nudge line<br>
+<br>
+Working on line mechanics.
